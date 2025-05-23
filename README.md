@@ -47,6 +47,7 @@ Este backend permite gestionar especialidades y citas médicas para la clínica 
 ```
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/d93e322f-e449-4ebc-94fb-905136db84ba" />
 
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/91f90ea2-6306-4825-aa80-4bf3aa788dc1" />
 
 
 
