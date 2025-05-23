@@ -30,6 +30,8 @@ Este backend permite gestionar especialidades y citas médicas para la clínica 
   "ubicacion": "Piso 1, Consultorio 101"
 }
 ```
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/4a221b79-59ca-4905-9a10-e4d753143035" />
+
 
 ### Citas
 ```json
@@ -45,6 +47,7 @@ Este backend permite gestionar especialidades y citas médicas para la clínica 
   "estado": "Confirmada"
 }
 ```
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d93e322f-e449-4ebc-94fb-905136db84ba" />
 
 
 
@@ -56,8 +59,5 @@ npm install
 npm run dev
 ```
 
-Requiere MongoDB Atlas y archivo `.env` con:
-```
-MONGO_URI=tu_cadena_de_conexion
-PORT=3001
+
 
