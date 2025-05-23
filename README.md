@@ -1,8 +1,6 @@
 
 # Backend - ECI Salud Vital
 
-**Nombre:**  
-**Grupo:** [CVDS - Grupo X]
 
 ## Descripción
 
