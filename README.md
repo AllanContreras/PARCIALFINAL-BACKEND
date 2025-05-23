@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# Parcial-final-backend
-=======
+
 # Backend - ECI Salud Vital
 
-**Nombre:** [Tu Nombre Aquí]  
+**Nombre:**  
 **Grupo:** [CVDS - Grupo X]
 
 ## Descripción
@@ -48,15 +46,8 @@ Este backend permite gestionar especialidades y citas médicas para la clínica 
 }
 ```
 
-## Cobertura de Pruebas
 
-Incluye pruebas para rutas de creación, consulta y cancelación de citas con Jest y Supertest.
 
-![Cobertura](./tests/cobertura.png)
-
-## Swagger
-
-Disponible en: `https://TU_BACKEND.azurewebsites.net/api-docs`
 
 ## Cómo Ejecutar
 
@@ -69,7 +60,4 @@ Requiere MongoDB Atlas y archivo `.env` con:
 ```
 MONGO_URI=tu_cadena_de_conexion
 PORT=3001
-```
 
----
->>>>>>> 09d5fa0 (Primer commit)
